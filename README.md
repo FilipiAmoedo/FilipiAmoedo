@@ -1,18 +1,12 @@
 ### Hi there 👋
 
-Sou o Filipi 
+Sou o Filipi e estou cursando engenharia da computação, atualmente evoluindo na area de front-end mas pretendo me tornar dev full stack
 
-<!--
-**FilipiAmoedo/FilipiAmoedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estou aprendendo a criar projetos Front-end
+- 👯 Procuro colaborar com projetos Front-end
+- 🤔 Preciso de ajuda com revisões nos meus projetos
+- 💬 Pode me perguntar sobre tecnologia,games,series, 
+- 📫 Manda um email ou pix: filipi_amoed@hotmail.com
+- 😄 Pronouns: ele/dele
+- ⚡ Languages: C,JavaScript,PHP
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
