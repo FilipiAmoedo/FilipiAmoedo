@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-Sou o Filipi e estou cursando engenharia da computação, atualmente evoluindo na area de front-end mas pretendo me tornar dev full stack
+Sou o Filipi e estou cursando engenharia da computação, atualmente evoluindo na area de data science 
 
-- 🌱 Estou aprendendo a criar projetos Front-end
-- 👯 Procuro colaborar com projetos Front-end
+- 🌱 Aprendendo Python para se tornar um data science.
+- 👯 Procuro colaborar com projetos Front-end, Data science 
 - 🤔 Preciso de ajuda com revisões nos meus projetos
-- 💬 Pode me perguntar sobre tecnologia,games,series, 
-- 📫 Manda um e-mail ou pix: filipi_amoed@hotmail.com
-- 😄 Pronouns: ele/dele
-- ⚡ Languages: C,JavaScript,PHP
+- 💬 Pode me perguntar sobre tecnologia,games,series
+- ⚡ Languages: C,JavaScript,PHP,Python
 
