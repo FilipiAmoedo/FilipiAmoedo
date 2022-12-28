@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-Sou o Filipi e estou cursando engenharia da computação, atualmente evoluindo na area de data science 
+Sou o Filipi e estou cursando engenharia da computação
 
-- 🌱 Aprendendo Python para se tornar um data science.
+- 🌱 Aprendendo Python.
 - 👯 Procuro colaborar com projetos Front-end, Data science 
 - 🤔 Preciso de ajuda com revisões nos meus projetos
 - 💬 Pode me perguntar sobre tecnologia,games,series
 - ⚡ Languages: C,JavaScript,PHP,Python
-
